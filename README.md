@@ -1,4 +1,3 @@
-Introduction :
 L'Injection des Dépendances (DI) est un patron de conception où les dépendances sont "injectées" dans une classe plutôt que créées à l'intérieur de celle-ci. Cela améliore la modularité et la testabilité.
 
 Creation des packages:
